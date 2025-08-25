@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## Je suis AMOUBE NDE LOUANGE-MYSTERE , ELEVE INGENIEUR EN ARTS NUMERIQUES
 <!--
 **Anemys21/Anemys21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Anemys21&show_icons=true&theme=radical)
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anemys21&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anemys21&theme=radical)
+
