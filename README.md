@@ -1,4 +1,4 @@
-# bonjour je me nomme AMOUBE NDE LOUANGE
+# bonjour je me nomme AMOUBE LOUANGE-MYSTERE
 ### Mystère, élève ingénieur en art numérique, allie créativité et technologies innovantes pour concevoir des projets artistiques modernes et interactifs.
 ### Passioné par la robotique et l'intelligence artificielle
 
