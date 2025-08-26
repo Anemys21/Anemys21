@@ -1,5 +1,6 @@
 # bonjour je me nomme AMOUBE NDE LOUANGE
-### passionne par le developpement mobile & WEB| élève ingénieur en ingénierie des Arts numériques
+### Mystère, élève ingénieur en art numérique, allie créativité et technologies innovantes pour concevoir des projets artistiques modernes et interactifs.
+### Passioné par la robotique et l'intelligence artificielle
 
 <img src="https://github-profile-trophy.vercel.app/?username=Anemys21&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="GitHub Trophy">
 
